@@ -1,0 +1,22 @@
+{
+  "name": "mynode",
+  "version": "1.0.0",
+  "description": "## แบบ exports function  เปิดดูตัวอย่างในไฟล์ ***services/authen.js***",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wara-007/nodeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wara-007/nodeTest/issues"
+  },
+  "homepage": "https://github.com/wara-007/nodeTest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
